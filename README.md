@@ -4,4 +4,9 @@
 ### A little bit about me:    
 I'm a junior data analyst, I already know how to do various tasks, from prediction, to writing SQL query. I'm still studying, although who doesn't study, I'm looking for a job at the same time. I am eager to join a friendly team of analysts and take part in various interesting business tasks.
 
-I am currently pumping my analytics skills, learning ml little by little and doing projects.
+🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects.
+
+### Social resources: 🌐
+I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information 
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/churkenberg)
