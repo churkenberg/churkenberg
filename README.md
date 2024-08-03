@@ -6,7 +6,7 @@ I'm a junior data analyst, I already know how to do various tasks, from predicti
 
 🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
