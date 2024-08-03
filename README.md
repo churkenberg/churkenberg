@@ -18,6 +18,7 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 <a href = "mailto:ichugynov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## I'm poking the next stack
 <div>
@@ -51,8 +52,6 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=churkenberg&theme=blue"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
+<img src="https://private-user-images.githubusercontent.com/74038190/240820264-31edfb91-6645-4b85-b273-b5280b342e0b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3MDAyMTAsIm5iZiI6MTcyMjY5OTkxMCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjAyNjQtMzFlZGZiOTEtNjY0NS00Yjg1LWIyNzMtYjUyODBiMzQyZTBiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAzVDE1NDUxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyOGVlMTE0OWEyZmFmYWFiZDg1NmY5ZjY3MmU2MDQ3NDhiN2MzM2IzM2JjMjZlN2RkYTkxMDNmOWRkMjU2YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-vrfLJsTUiqtwAfFf1OI9T7ms5hLQGPHnBXXk1_CThY" alt="MasterHead" height="400" width="100%">
