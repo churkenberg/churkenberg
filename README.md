@@ -25,7 +25,7 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 
 | Python3 | R |
 |----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/> |
 
 
 
