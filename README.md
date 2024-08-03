@@ -29,5 +29,9 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 
 
 
+| Tidyverse | SciPy | Numpy | Pandas | Sklearn | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" title="Tidyverse"  alt="Tidyverse" width="55" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png" title="SciPy"  alt="SciPy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
 
 </div>
