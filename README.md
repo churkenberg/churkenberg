@@ -42,7 +42,7 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 
 | Postgres | ClickHouse |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>| <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
+|<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
 
 
 |  Git | Docker | VBox |
