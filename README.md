@@ -6,7 +6,12 @@ I'm a junior data analyst, I already know how to do various tasks, from predicti
 
 🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects.
 
-### Social resources: 🌐
-I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information 
+### Social resources and communication: 🌐
+I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/churkenberg)
+And to contact me, there is Gmail, which I often read, and I don't miss a single message.
+
+<div> 
+<a href="https://t.me/churkenberg" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href = "mailto:ichugynov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
