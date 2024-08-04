@@ -4,14 +4,14 @@
 ### A little bit about me:    
 I'm a junior data analyst, I already know how to do various tasks, from prediction, to writing SQL query. I'm still studying, although who doesn't study, I'm looking for a job at the same time. I am eager to join a friendly team of analysts and take part in various interesting business tasks.
 
-🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects.
+🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects. <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="20" width="5%">
 
-<img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="20" width="5%"> <img src="https://camo.githubusercontent.com/8b2944c7db5b2a95887584b06eab37d71d1c5b7d579ecb752434c20c09013364/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c657669746174696f6e706172726f742e676966" height="20" width="5%"> <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="20" width="5%">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
 
-And to contact me, there is Gmail, which I often read, and I don't miss a single message. 
+And to contact me, there is Gmail, which I often read, and I don't miss a single message. <img src="https://camo.githubusercontent.com/8b2944c7db5b2a95887584b06eab37d71d1c5b7d579ecb752434c20c09013364/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c657669746174696f6e706172726f742e676966" height="20" width="5%">
 
 
 <div> 
