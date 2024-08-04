@@ -6,12 +6,13 @@ I'm a junior data analyst, I already know how to do various tasks, from predicti
 
 🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
 
-And to contact me, there is Gmail, which I often read, and I don't miss a single message.
+And to contact me, there is Gmail, which I often read, and I don't miss a single message. <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966">
+
 
 <div> 
 <a href="https://t.me/churkenberg" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
