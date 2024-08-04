@@ -11,7 +11,7 @@ I'm a junior data analyst, I already know how to do various tasks, from predicti
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
 
-And to contact me, there is Gmail, which I often read, and I don't miss a single message. <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="50" width="100%">
+And to contact me, there is Gmail, which I often read, and I don't miss a single message. <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="50" width="20%">
 
 
 <div> 
