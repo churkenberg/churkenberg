@@ -54,7 +54,7 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 
 |  Git | Docker | VBox | DataLens | Excel |
 |----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="55" height="55"/>|<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" alt="DataLens" width="55" height="55"/>|<img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="Excel" alt="Excel" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="55" height="55"/>|<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" alt="DataLens" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>|
 
 </div>
 
