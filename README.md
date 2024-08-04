@@ -25,9 +25,9 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 <div>
 
 
-| Python3 | R |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/> |
+| Python3 | R | Bash |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" title="Bash"  alt="Bash" width="55" height="55"/> |
 
 
 
@@ -46,9 +46,15 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 |<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
 
 
-|  Git | Docker | VBox | DataLens |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="55" height="55"/>|<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" alt="DataLens" width="55" height="55"/>|
+
+| Ubuntu |
+|----------|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>|
+
+
+|  Git | Docker | VBox | DataLens | Excel |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="55" height="55"/>|<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" alt="DataLens" width="55" height="55"/>|<img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="Excel" alt="Excel" width="55" height="55"/>|
 
 </div>
 
