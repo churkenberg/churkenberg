@@ -47,9 +47,9 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 
 
 
-| Ubuntu |
-|----------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>|
+| Linux | Windows |
+|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/>|
 
 
 |  Git | Docker | VBox | DataLens | Excel |
