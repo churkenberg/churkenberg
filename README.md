@@ -1,4 +1,4 @@
-<img src="https://github.com/churkenberg/churkenberg/blob/main/gifs/2529e258d636f8bee9d7bf41e82147b0a3159bdfc0a2c7fb3b9a2ecee1ebe08c.gif" alt="MasterHead" height="400" width="100%">
+<img src="https://github.com/churkenberg/churkenberg/blob/main/gifs/628af8665e4ed06f21588600c9d0c3c96a1d8df5e8ccd2c1e9465d9d3a762040.gif" alt="MasterHead" height="400" width="100%">
 <h1 align="center">Hey ❤️, Churkenberg is in touch</h1>
 
 ### A little bit about me:    
