@@ -1,17 +1,16 @@
 <img src="https://github.com/churkenberg/churkenberg/blob/main/gifs/628af8665e4ed06f21588600c9d0c3c96a1d8df5e8ccd2c1e9465d9d3a762040.gif" alt="MasterHead" height="400" width="100%">
 <h1 align="center">Hey ❤️, Churkenberg is in touch</h1>
 
-### A little bit about me:    
-I'm a junior data analyst, I already know how to do various tasks, from prediction, to writing SQL query. I'm still studying, although who doesn't study, I'm looking for a job at the same time. I am eager to join a friendly team of analysts and take part in various interesting business tasks. <img src="https://camo.githubusercontent.com/c10cbc0b533dbba4f65889829d42e7748e1165ac616e8ac04c322d7878d5cfd8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f7370696e6e696e67706172726f742e676966" height="20" width="5%">
-
-🌱 I am currently pumping my analytics skills, learning ml little by little and doing projects. <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="20" width="5%">
+### A little bit about me: 📉
+I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects. 
+I don't work anywhere yet, I'm waiting for an offer in a lamp company or some startup.
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
 
-And to contact me, there is Gmail, which I often read, and I don't miss a single message. <img src="https://camo.githubusercontent.com/8b2944c7db5b2a95887584b06eab37d71d1c5b7d579ecb752434c20c09013364/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c657669746174696f6e706172726f742e676966" height="20" width="5%">
+And to contact me, there is Gmail, which I often read, and I don't miss a single message. 
 
 
 <div> 
@@ -46,7 +45,7 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 ### DBMS
 | Postgres | ClickHouse |
 |----------|----------|
-|<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
+|<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
 
 
 ### OS
