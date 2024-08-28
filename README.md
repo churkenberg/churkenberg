@@ -45,7 +45,7 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 ### DBMS
 | Postgres | ClickHouse |
 |----------|----------|
-|<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
+|<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://github.com/churkenberg/churkenberg/blob/main/image/clickhouse-seeklogo.png" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
 
 
 ### OS
