@@ -46,10 +46,17 @@ And to contact me, there is Gmail, which I often read, and I don't miss a single
 | DataLens | Redash |
 |----------|----------|
 |<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png" title="DataLens" alt="DataLens" width="55" height="55"/>|<img src="https://redash.io/assets/images/redash-256.png" title="Redash" alt="Redash" width="55" height="55"/>|
+
+
+### OPS
+| Git | Docker | VBox | Bash | Linux |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" title="Bash"  alt="Bash" width="55" height="55"/>|
+
 ### Other
-|  Git | Docker | VBox | Excel | Bash | HTML | CSS | Linux |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" title="Bash"  alt="Bash" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> |
+Excel | HTML | CSS |
+|----------|----------|----------|
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |
 
 </div>
 
