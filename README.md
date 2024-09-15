@@ -7,9 +7,9 @@ I am involved in Data science (machine learning and data analytics). I am active
 <!--<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">-->
 
 ### Social resources and communication: 🌐
-I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
+I will be sincerely grateful if you join my Telegram, in it I try to share interesting information.
 
-And to contact me, there is Gmail, which I often read, and I don't miss a single message. 
+And for communication with me there is Gmail, which I read often and do not miss a single message.
 
 
 <div> 
