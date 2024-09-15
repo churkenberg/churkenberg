@@ -2,10 +2,9 @@
 <h1 align="center">Hey ❤️, Churkenberg is in touch</h1>
 
 ### A little bit about me: 📉
-I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects. 
-I don't work anywhere yet, I'm waiting for an offer in a lamp company or some startup.
+I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
+<!--<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">-->
 
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my telegram, in it I will try to share new projects and interesting information.
