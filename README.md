@@ -61,7 +61,9 @@ Excel | HTML | CSS |
 
 
 
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Stats](https://wakatime.com/share/@30ec3f37-bc1a-44df-b70a-d6cda6167e7b/3bed04b0-6c7f-45a2-958f-84481c970434.png)](https://github.com/churkenberg)
 
 <!--<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="MasterHead">
