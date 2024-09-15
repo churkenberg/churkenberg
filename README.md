@@ -62,7 +62,8 @@ Excel | HTML | CSS |
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![Stats](ttps://wakatime.com/share/@ffb20230-c052-482d-9dba-5c267b7df131/b470fd53-aea3-4171-80b3-ec9890766ad3.svg)](https://github.com/churkenberg)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=churkenberg&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="churkenberg" /></p>
 
 <!--<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="MasterHead">
