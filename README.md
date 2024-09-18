@@ -24,9 +24,9 @@ And for communication with me there is Gmail, which I read often and do not miss
 
 
 ### Programming Languages
-| Python | R |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/> |
+| Python | R | Java | C++ |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R"  alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp"  alt="Cpp" width="55" height="55"/>|
 
 
 ### Libraries and Frameworks
