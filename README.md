@@ -61,7 +61,7 @@ Excel | HTML | CSS |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hackathons rep
+<h1 align="center">Hackathons rep</h1>
 
 | Dano 2024 |
 |----------|
