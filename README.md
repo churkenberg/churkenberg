@@ -65,7 +65,7 @@ Excel | HTML | CSS |
 
 | Dano 2024 |
 |----------|
-|<img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="Dano"  alt="Dano" width="55" height="55"/>|
+|<a href="https://example.com" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="Dano"  alt="Dano" width="55" height="55"/> </a>|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
