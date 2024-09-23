@@ -32,7 +32,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 ### Libraries and Frameworks
 | Tidyverse | SciPy | NumPy | Pandas | Sklearn | Seaborn | Matplotlib |
 |----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" title="Tidyverse"  alt="Tidyverse" width="55" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png" title="SciPy"  alt="SciPy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="Seaborn" alt="Seaborn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/>|
+|<a href="https://www.tidyverse.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" title="tidyverse.org"  alt="tidyverse.org" width="55" height="55"/> </a>|<a href="https://scipy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png" title="scipy.org" alt="scipy.org" width="55" height="55"/> </a>|<a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy.org" alt="numpy.org" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="Seaborn" alt="Seaborn" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> </a>|
 
 
 ### DBMS
@@ -65,7 +65,7 @@ Excel | HTML | CSS |
 
 | Dano 2024 |
 |----------|
-|<a href="https://github.com/churkenberg/dano_2024" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="Dano"  alt="Dano" width="55" height="55"/> </a>|
+|<a href="https://github.com/churkenberg/dano_2024" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="github.com/churkenberg/dano_2024"  alt="github.com/churkenberg/dano_2024" width="55" height="55"/> </a>|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
