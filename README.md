@@ -70,6 +70,12 @@ Excel | HTML | CSS |
 
 <table>
   <tr>
+    <th align="center">A/B test</th>
+    <th align="center">Stepik ML Сontest</th>
+    <th align="center">Primary data processing</th>
+    <th align="center">Excel projects</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/churkenberg/ab_test" target="_blank">
         <img src="https://github.com/churkenberg/churkenberg/blob/main/image/abtest_logo.png" title="github.com/churkenberg/ab_test" alt="github.com/churkenberg/ab_test" width="55" height="55"/>
