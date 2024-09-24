@@ -208,7 +208,8 @@ Excel | HTML | CSS |
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>
     </td>
-    <td align="center
+  </tr>
+</table>
 
 <h2 align="center">Hackathons and olympiads rep</h2>
 
@@ -226,7 +227,8 @@ Excel | HTML | CSS |
         <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="github.com/churkenberg/dano_2024"  alt="github.com/churkenberg/dano_2024" width="55" height="55"/>
       </a>
     </td>
-    <td align="center
+  </tr>
+</table>
 
 <h2 align="center">DS project</h2>
 
@@ -281,7 +283,8 @@ Excel | HTML | CSS |
         <img src="https://github.com/churkenberg/Rosenblatt_ai/blob/main/design/logo/without_background.png" title="github.com/churkenberg/Rosenblatt_ai"  alt="github.com/churkenberg/Rosenblatt_ai" width="55" height="55"/>
       </a>
     </td>
-    <td align="center
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
