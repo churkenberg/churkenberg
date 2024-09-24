@@ -19,6 +19,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 · DA and ML <br>
 · Development <br>
 · Painting and drawing <br>
+· Math <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
