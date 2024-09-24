@@ -259,6 +259,21 @@ And for communication with me there is Gmail, which I read often and do not miss
   </tr>
 </table>
 
+<h2 align="center">Education</h2>
+
+<table>
+  <tr>
+    <td align="center"><strong>Basics of statistics</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://stepik.org/certificate/3594ee30f4a5d0c9e39aa2490cce63e94bbd85f1.pdf?language=en" target="_blank">
+        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/bi_logo.png" title="stepik.org/certificate"  alt="stepik.org/certificate" width="55" height="55"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
