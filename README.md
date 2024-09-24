@@ -63,6 +63,12 @@ Excel | HTML | CSS |
 |----------|
 |<a href="https://github.com/churkenberg/dano_2024" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="github.com/churkenberg/dano_2024"  alt="github.com/churkenberg/dano_2024" width="55" height="55"/> </a>|
 
+<h2 align="center">DS project</h2>
+
+| A/B test |  |  |  |
+|----------|----------|----------|----------|
+|<a href="https://github.com/churkenberg/ab_test" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/abtest_logo.png" title="github.com/churkenberg/ab_test"  alt="github.com/churkenberg/ab_test" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="" title=""  alt="" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="" title=""  alt="" width="55" height="55"/> </a>|<a href="" target="_blank"> <img src="" title=""  alt="" width="55" height="55"/> </a>|
+
 <h2 align="center">Open Source project</h2>
 
 | Rosenblatt AI |
