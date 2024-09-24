@@ -20,7 +20,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">I'm poking the next stack</h1>
-<div>
+<h3 align="center">Click on img to read</h3>
 
 
 ### Skills
@@ -55,9 +55,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 ### Other
 Excel | HTML | CSS |
 |----------|----------|----------|
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |
-
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/>|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
