@@ -65,9 +65,9 @@ Excel | HTML | CSS |
 
 <h2 align="center">Open Source project</h2>
 
-| Dano 2024 |
+| Rosenblatt AI |
 |----------|
-|<a href="https://github.com/churkenberg/Rosenblatt_ai" target="_blank"> <img src="https://github.com/churkenberg/Rosenblatt_ai/blob/main/design/logo/not_title.png" title="github.com/churkenberg/Rosenblatt_ai"  alt="github.com/churkenberg/Rosenblatt_ai" width="55" height="55"/> </a>|
+|<a href="https://github.com/churkenberg/Rosenblatt_ai" target="_blank"> <img src="https://github.com/churkenberg/Rosenblatt_ai/blob/main/design/logo/without_background.png" title="github.com/churkenberg/Rosenblatt_ai"  alt="github.com/churkenberg/Rosenblatt_ai" width="55" height="55"/> </a>|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
