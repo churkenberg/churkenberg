@@ -64,10 +64,13 @@ Excel | HTML | CSS |
 |<a href="https://github.com/churkenberg/dano_2024" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="github.com/churkenberg/dano_2024"  alt="github.com/churkenberg/dano_2024" width="55" height="55"/> </a>|
 
 <h2 align="center">DS project</h2>
+
 <div>
+
 | A/B test | Stepik ML Сontest | Primary data processing | Excel projects |
 |----------|----------|----------|----------|
 |<a href="https://github.com/churkenberg/ab_test" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/abtest_logo.png" title="github.com/churkenberg/ab_test"  alt="github.com/churkenberg/ab_test" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/stepik_ml_contest" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/stepic_logo.png" title="github.com/churkenberg/stepik_ml_contest"  alt="github.com/churkenberg/stepik_ml_contest" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/primary_data_processing" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/db_logo.png" title="github.com/churkenberg/primary_data_processing"  alt="github.com/churkenberg/primary_data_processing" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/excel_projects" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/excel_logo.png" title="github.com/churkenberg/excel_projects"  alt="github.com/churkenberg/excel_projects" width="55" height="55"/> </a>|
+
 </div>
 
 <h2 align="center">Open Source project</h2>
