@@ -3,24 +3,22 @@
 ### A little bit about me: 📉
 I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects.
 
-<!--<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">-->
-
 ### Social resources and communication: 🌐
 I will be sincerely grateful if you join my Telegram, in it I try to share interesting information.
 
 And for communication with me there is Gmail, which I read often and do not miss a single message.
 
-### Hobbies: 📚
-· Music
-· Books
-· DA and ML
-· Development
-· Painting and drawing
-
 <div> 
 <a href="https://t.me/churkenberg" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ichugynov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+### Hobbies: 📚
+· Music <br>
+· Books <br>
+· DA and ML <br>
+· Development <br>
+· Painting and drawing <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
