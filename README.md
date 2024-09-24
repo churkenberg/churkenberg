@@ -185,7 +185,7 @@ And for communication with me there is Gmail, which I read often and do not miss
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="70" height="55"/>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>
@@ -275,7 +275,7 @@ Simulation</strong></td>
     </td>
     <td align="center">
       <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_cBvmuNKXd29t7GPLu_1718301125680_completion_certificate.pdf" target="_blank">
-        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/forage_logo.png" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="55" height="55"/>
+        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/forage_logo.png" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="80" height="55"/>
       </a>
     </td>
   </tr>
