@@ -208,6 +208,9 @@ Excel | HTML | CSS |
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>
     </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>
+    </td>
   </tr>
 </table>
 
