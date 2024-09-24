@@ -19,7 +19,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">I'm poking the next stack</h2>
+<h2 align="center">Skills</h2>
 <h3 align="center">Click on img to read</h3>
 
 
@@ -57,13 +57,17 @@ Excel | HTML | CSS |
 |----------|----------|----------|
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/>|
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">Hackathons rep</h2>
 
 | Dano 2024 |
 |----------|
 |<a href="https://github.com/churkenberg/dano_2024" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="github.com/churkenberg/dano_2024"  alt="github.com/churkenberg/dano_2024" width="55" height="55"/> </a>|
+
+<h2 align="center">Open Source project</h2>
+
+| Dano 2024 |
+|----------|
+|<a href="https://github.com/churkenberg/Rosenblatt_ai" target="_blank"> <img src="https://github.com/churkenberg/Rosenblatt_ai/blob/main/design/logo/not_title.png" title="github.com/churkenberg/Rosenblatt_ai"  alt="github.com/churkenberg/Rosenblatt_ai" width="55" height="55"/> </a>|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
