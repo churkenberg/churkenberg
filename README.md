@@ -264,7 +264,8 @@ And for communication with me there is Gmail, which I read often and do not miss
 <table>
   <tr>
     <td align="center"><strong>Basics of statistics</strong></td>
-    <td align="center"><strong>Basics of statistics</strong></td>
+    <td align="center"><strong>Data Analytics and Visualization Job
+Simulation</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -274,7 +275,7 @@ And for communication with me there is Gmail, which I read often and do not miss
     </td>
     <td align="center">
       <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_cBvmuNKXd29t7GPLu_1718301125680_completion_certificate.pdf" target="_blank">
-        <img src="https://bookface-images.s3.amazonaws.com/logos/06f37a2c3431748d0ddb96f49cb39db93035c618.png?1701733673" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="55" height="55"/>
+        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/forage_logo.png" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="55" height="55"/>
       </a>
     </td>
   </tr>
