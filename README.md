@@ -69,12 +69,12 @@ Excel | HTML | CSS |
 |<a href="https://github.com/churkenberg/ab_test" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/abtest_logo.png" title="github.com/churkenberg/ab_test"  alt="github.com/churkenberg/ab_test" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/stepik_ml_contest" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/stepic_logo.png" title="github.com/churkenberg/stepik_ml_contest"  alt="github.com/churkenberg/stepik_ml_contest" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/primary_data_processing" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/db_logo.png" title="github.com/churkenberg/primary_data_processing"  alt="github.com/churkenberg/primary_data_processing" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/excel_projects" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/excel_logo.png" title="github.com/churkenberg/excel_projects"  alt="github.com/churkenberg/excel_projects" width="55" height="55"/> </a>|-->
 
 <table>
-  <!--<tr>
-    <th align="center">A/B test</th>
-    <th align="center">Stepik ML Сontest</th>
-    <th align="center">Primary data processing</th>
-    <th align="center">Excel projects</th>
-  </tr>-->
+  <tr>
+    <td align="center"><strong>A/B test</strong></td>
+    <td align="center"><strong>Stepik ML Contest</strong></td>
+    <td align="center"><strong>Primary data processing</strong></td>
+    <td align="center"><strong>Excel projects</strong></td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/churkenberg/ab_test" target="_blank">
