@@ -19,7 +19,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">I'm poking the next stack</h1>
+<h2 align="center">I'm poking the next stack</h2>
 <h3 align="center">Click on img to read</h3>
 
 
@@ -59,7 +59,7 @@ Excel | HTML | CSS |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hackathons rep</h1>
+<h2 align="center">Hackathons rep</h2>
 
 | Dano 2024 |
 |----------|
