@@ -1,4 +1,15 @@
-<img src="https://github.com/churkenberg/churkenberg/blob/main/gifs/628af8665e4ed06f21588600c9d0c3c96a1d8df5e8ccd2c1e9465d9d3a762040.gif" alt="MasterHead" height="400" width="100%">
+<style>
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+td {
+  width: 25%;
+  text-align: center;
+  vertical-align: middle;
+}
+</style>
+
 <h1 align="center">Hey ❤️, Churkenberg is in touch</h1>
 
 ### A little bit about me: 📉
@@ -69,7 +80,7 @@ Excel | HTML | CSS |
 
 | A/B test | Stepik ML Сontest | Primary data processing | Excel projects |
 |----------|----------|----------|----------|
-|<a href="https://github.com/churkenberg/ab_test" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/abtest_logo.png" title="github.com/churkenberg/ab_test"  alt="github.com/churkenberg/ab_test" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/stepik_ml_contest" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/stepic_logo.png" title="github.com/churkenberg/stepik_ml_contest"  alt="github.com/churkenberg/stepik_ml_contest" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/primary_data_processing" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/db_logo.png" title="github.com/churkenberg/primary_data_processing"  alt="github.com/churkenberg/primary_data_processing" width="70" height="55"/> </a>|<a href="https://github.com/churkenberg/excel_projects" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/excel_logo.png" title="github.com/churkenberg/excel_projects"  alt="github.com/churkenberg/excel_projects" width="70" height="55"/> </a>|
+|<a href="https://github.com/churkenberg/ab_test" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/abtest_logo.png" title="github.com/churkenberg/ab_test"  alt="github.com/churkenberg/ab_test" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/stepik_ml_contest" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/stepic_logo.png" title="github.com/churkenberg/stepik_ml_contest"  alt="github.com/churkenberg/stepik_ml_contest" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/primary_data_processing" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/db_logo.png" title="github.com/churkenberg/primary_data_processing"  alt="github.com/churkenberg/primary_data_processing" width="55" height="55"/> </a>|<a href="https://github.com/churkenberg/excel_projects" target="_blank"> <img src="https://github.com/churkenberg/churkenberg/blob/main/image/excel_logo.png" title="github.com/churkenberg/excel_projects"  alt="github.com/churkenberg/excel_projects" width="55" height="55"/> </a>|
 
 </div>
 
