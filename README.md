@@ -1,15 +1,3 @@
-<style>
-table {
-  table-layout: fixed;
-  width: 100%;
-}
-td {
-  width: 25%;
-  text-align: center;
-  vertical-align: middle;
-}
-</style>
-
 <h1 align="center">Hey ❤️, Churkenberg is in touch</h1>
 
 ### A little bit about me: 📉
@@ -77,6 +65,18 @@ Excel | HTML | CSS |
 <h2 align="center">DS project</h2>
 
 <div>
+
+<style>
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+td {
+  width: 25%;
+  text-align: center;
+  vertical-align: middle;
+}
+</style>
 
 | A/B test | Stepik ML Сontest | Primary data processing | Excel projects |
 |----------|----------|----------|----------|
