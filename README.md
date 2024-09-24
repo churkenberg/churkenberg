@@ -259,6 +259,27 @@ And for communication with me there is Gmail, which I read often and do not miss
   </tr>
 </table>
 
+<h2 align="center">Education</h2>
+
+<table>
+  <tr>
+    <td align="center"><strong>Basics of statistics</strong></td>
+    <td align="center"><strong>Basics of statistics</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://stepik.org/certificate/3594ee30f4a5d0c9e39aa2490cce63e94bbd85f1.pdf?language=en" target="_blank">
+        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/bi_logo.png" title="stepik.org/certificate"  alt="stepik.org/certificate" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_cBvmuNKXd29t7GPLu_1718301125680_completion_certificate.pdf" target="_blank">
+        <img src="https://bookface-images.s3.amazonaws.com/logos/06f37a2c3431748d0ddb96f49cb39db93035c618.png?1701733673" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="55" height="55"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
