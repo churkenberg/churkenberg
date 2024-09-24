@@ -10,6 +10,12 @@ I will be sincerely grateful if you join my Telegram, in it I try to share inter
 
 And for communication with me there is Gmail, which I read often and do not miss a single message.
 
+### Hobbies: 📚
+· Music
+· Books
+· DA and ML
+· Development
+· Painting and drawing
 
 <div> 
 <a href="https://t.me/churkenberg" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -275,7 +281,7 @@ Simulation</strong></td>
     </td>
     <td align="center">
       <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_cBvmuNKXd29t7GPLu_1718301125680_completion_certificate.pdf" target="_blank">
-        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/forage_logo.png" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="110" height="55"/>
+        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/forage_logo.png" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="130" height="55"/>
       </a>
     </td>
   </tr>
