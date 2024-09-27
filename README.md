@@ -201,7 +201,7 @@ And for communication with me there is Gmail, which I read often and do not miss
   </tr>
 </table>
 
-<h2 align="center">Hackathons and olympiads rep</h2>
+<h2 align="center">Hackathons rep</h2>
 
 <table>
   <tr>
