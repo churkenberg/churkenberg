@@ -209,7 +209,7 @@ And for communication with me there is Gmail, which I read often and do not miss
   </tr>
   <tr>
     <td align="center">
-      <a href="github.com/churkenberg/dano_2024" target="_blank">
+      <a href="https://github.com/churkenberg/dano_2024" target="_blank">
         <img src="https://github.com/churkenberg/churkenberg/blob/main/image/dano_logo.png" title="github.com/churkenberg/dano_2024"  alt="github.com/churkenberg/dano_2024" width="55" height="55"/>
       </a>
     </td>
