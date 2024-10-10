@@ -253,7 +253,7 @@ And for communication with me there is Gmail, which I read often and do not miss
 
 <table>
   <tr>
-    <td align="center"><strong>Rosenblatt AI</strong></td>
+    <td align="center"><strong>Nanchi AI</strong></td>
   </tr>
   <tr>
     <td align="center">
