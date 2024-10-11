@@ -4,9 +4,9 @@
 I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects.
 
 ### Social resources and communication: 🌐
-I will be sincerely grateful if you join my Telegram, in it I try to share interesting information.
+You can find out more about me from my SNS.
 
-And for communication with me there is Gmail, which I read often and do not miss a single message.
+And to contact me there is mail and telegram (in the profile description link), which I read often and don't miss a message.
 
 <div> 
 <a href="https://t.me/churkenberg" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
