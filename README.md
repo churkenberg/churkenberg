@@ -16,7 +16,6 @@ And to contact me there is mail and telegram (in the profile description link), 
 </div>
 
 ### Hobbies: 📚
-· Music <br>
 · Books <br>
 · DA and ML <br>
 · Development <br>
@@ -266,23 +265,16 @@ And to contact me there is mail and telegram (in the profile description link), 
   </tr>
 </table>
 
-<h2 align="center">Education</h2>
+<h2 align="center">Other</h2>
 
 <table>
   <tr>
-    <td align="center"><strong>Basics of statistics</strong></td>
-    <td align="center"><strong>Data Analytics and Visualization Job
-Simulation</strong></td>
+    <td align="center"><strong>Certificates</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://stepik.org/certificate/3594ee30f4a5d0c9e39aa2490cce63e94bbd85f1.pdf?language=en" target="_blank">
-        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/bi_logo.png" title="stepik.org/certificate"  alt="stepik.org/certificate" width="55" height="55"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_cBvmuNKXd29t7GPLu_1718301125680_completion_certificate.pdf" target="_blank">
-        <img src="https://github.com/churkenberg/churkenberg/blob/main/image/forage_logo.png" title="forage-uploads-prod.s3.amazonaws.com/completion-certificates"  alt="forage-uploads-prod.s3.amazonaws.com/completion-certificates" width="130" height="55"/>
+      <a href="https://github.com/churkenberg/certificates" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135807.png" title="cert"  alt="github.com/churkenberg/certificates" width="55" height="55"/>
       </a>
     </td>
   </tr>
