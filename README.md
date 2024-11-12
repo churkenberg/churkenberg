@@ -1,1 +1,2 @@
-current gitlab - https://gitlab.com/churkenberg
+current gitlab - gitlab.com/churkenberg
+
